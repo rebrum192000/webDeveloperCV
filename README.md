@@ -1,6 +1,6 @@
 # webDeveloperCV
 
-Мое резюме на должность HTMl верстальщика/Frontend разработчика
+Мое резюме на должность Web-разработчика
 
 <img src="https://i.ibb.co/ZXq97tp/HTML.png" alt="HTML" border="0">
 
