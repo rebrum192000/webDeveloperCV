@@ -2,7 +2,7 @@
 
 Мое резюме на должность Web-разработчика
 
-<img src="https://i.ibb.co/ZXq97tp/HTML.png" alt="HTML" border="0">
+<img src="https://i.ibb.co/jkWTSG6/Web.png" alt="Web" border="0">
 
 Ссылки на все разработанные мной сайты, с детальным описанием того, что я выполнил по каждому из проектов, прикладываю ниже:
 
