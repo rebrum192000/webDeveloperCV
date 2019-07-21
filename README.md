@@ -2,8 +2,6 @@
 
 Мое резюме на должность Web-разработчика
 
-<img src="https://i.ibb.co/jkWTSG6/Web.png" alt="Web" border="0">
-
 Ссылки на все разработанные мной сайты, с детальным описанием того, что я выполнил по каждому из проектов, прикладываю ниже:
 
 - https://github.com/rebrum192000/81pro-web (ссылка на сам сайт для просмотра - https://rebrum192000.github.io/81pro-web/)
@@ -13,3 +11,5 @@
 - https://github.com/rebrum192000/GagarinHall-Web (ссылка на сам сайт для просмотра - https://rebrum192000.github.io/GagarinHall-Web/)
 - https://github.com/rebrum192000/Trace-web (ссылка на сам сайт для просмотра - https://rebrum192000.github.io/Trace-web/)
 - https://github.com/rebrum192000/MkGroup-Web (ссылка на сам сайт для просмотра - https://rebrum192000.github.io/MkGroup-Web/)
+
+<img src="https://i.ibb.co/jkWTSG6/Web.png" alt="Web" border="0">
